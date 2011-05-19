@@ -1,0 +1,18 @@
+LINUX:
+
+Checking out Glitch:
+git clone git@github.com:Enrise/Glitch3.git Glitch
+cd Glitch
+git checkout develop # Of andere branch
+git submodule sync
+git submodule update
+
+WINDOWS:
+Verplaats muis naar boven
+klik links
+klik nu rechts
+verplaats muis schuin naar beneden (rechts)
+Dubbel klik
+Druk op Oke
+Vervolgens op 'Waarschuwing negeren'
+(met een beetje geluk heb je nu uitgechecked - of ubuntu geinstalleerd)
